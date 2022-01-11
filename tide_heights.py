@@ -8,12 +8,12 @@ Created on Tue Jan  4 15:49:48 2022
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
-from statsmodels.tsa.stattools import acf
-from statsmodels.graphics.tsaplots import plot_acf, plot_pacf
-from statsmodels.tsa.seasonal import seasonal_decompose, STL
+#from statsmodels.tsa.stattools import acf
+#from statsmodels.graphics.tsaplots import plot_acf, plot_pacf
+#from statsmodels.tsa.seasonal import seasonal_decompose, STL
 
-import statsmodels.api as sm
-from statsmodels.tsa.ar_model import AutoReg
+#import statsmodels.api as sm
+#from statsmodels.tsa.ar_model import AutoReg
 
 # consider a signal which has 12.5 hour, monthly and annual periods
 # e.g. a tide
