@@ -7,4 +7,8 @@ Created on Tue Jan 11 11:10:33 2022
 
 # new python file
 
+
 #make changes to the file
+
+import numpy as np
+import pandas as pd
